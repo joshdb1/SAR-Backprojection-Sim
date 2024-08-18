@@ -1,6 +1,6 @@
 Final project for ECE5930: Radar Signal Processing
 
-The project uses Matlab to set up and simulate a SAR system, and forms images using back-projection. The user can choose between two simulated data scenes: 1) a point target, and 2) an image that says USU when the image has been formed.
+The project uses Matlab to set up and simulate a SAR system, and forms images using back-projection. The user can choose between two simulated data scenes: 1) a point target, and 2) an image that says USU when the image has been formed. Please note that this is not a particularly efficient algorithm and it will take a while to run.
 
 Instructions: 
 
